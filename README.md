@@ -68,3 +68,40 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Project Name
+
+**Author**: Dania Abughoush
+**Version**: 1.0.0 
+
+## Overview
+this application to know location of the city on the map
+
+## Getting Started
+npm i
+npm run build 
+npm start
+
+## Architecture
+axios,bootstrap,react
+
+## Change Log
+ Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
+
+02-05-2021 from(3:pm to 9:30 pm): the application was suceesfully  show the location on map and catches errors
+
+
+# request-response cycle:
+![request-response cycle](./public/Cycle.PNG)
+
+Name of feature: __1:form_+function for error and api_____________________________
+
+Estimate of time needed to complete: __6hour___
+
+Start time: __3:pm___
+
+Finish time: ___10:46__
+
+Actual time needed to complete: 6hours_____
+
